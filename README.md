@@ -3,6 +3,8 @@
 2019-3-26日
 
 参考网址：https://yq.aliyun.com/articles/154475
+## 博客介绍
+http://anguscai.ml/2019/03/26/keras%E3%80%81TensorFlow%E6%89%93%E9%80%A0%E9%9F%B3%E4%B9%90%E6%8E%A8%E4%BB%8B%E7%B3%BB%E7%BB%9F/#more
 
 ## 重要说明
 
